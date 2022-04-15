@@ -40,8 +40,6 @@ Information about the online shop business sales transactions:
 - Time of the dataset: 12.2018 - 12.2019
 - Size of the dataset: 500 thousand rows and 8 columns
 
-Link: https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business  
-
 
 
 <h2><span style="color:blue">Data Analysis</span></h2>
