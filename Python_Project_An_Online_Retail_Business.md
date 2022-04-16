@@ -97,8 +97,8 @@ Information about the online shop business sales transactions:
 #### Discussion 5:
 - We made a correlation heatmap of the top 60 selling products. It shows that the absolute value of correlation coefficient of the great majority of the 60 products were smaller than 0.5. From the graph, we can say that very few products were accessories. They were mostly stand-alone products.
 - The two pairs of products that have correlation:<br>
- "Asstd Design 3d Paper Stickers" and "Mini Paint Set Vintage" is  0.604839<br>
- "Small Chinese Style Scissor"  and " Lunch Bag Vintage Doily" is 0.545964 <br>
+ The correlation of "Asstd Design 3d Paper Stickers" and "Mini Paint Set Vintage" is  0.604839<br>
+ The correlation of "Small Chinese Style Scissor"  and " Lunch Bag Vintage Doily" is 0.545964 <br>
 They both have a moderate relationship with each other.[3]
 
 <br>
