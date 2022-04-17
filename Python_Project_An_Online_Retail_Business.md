@@ -86,7 +86,7 @@ Information about the online shop business sales transactions:
 !["sales"](https://github.com/ZiqiPolimeros/Python-Project-Online-Retail-Business/blob/main/pictures/3_product.png?raw=true)
 
 #### Discussion 4:
-- The most popular product was a popcorn holder with total sales of almost 600 thousand pounds sterling.
+- The most popular product was "popcorn holder" with total sales of over 0.5 million pounds sterling.
 - The product return rate was 3.48%. The top 20 return products were mostly from the United Kingdom.
 
 
