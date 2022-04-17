@@ -47,9 +47,10 @@ Information about the online shop business sales transactions:
 #### Analysis:  Overview
 
 #### Discussion 1:
-- The total sales revenue was about 65 million pounds sterling in 13 months. The biggest single sale revenue was over one million.
+- We only performed the analysis from December 2018 to November 2019, because there were only ten days records in December 2019.
+- The total sales revenue was about 64 million pounds sterling with over two million pounds sterling total return. 
 - The total volume of business was over five million products with about 3800 product IDs.
-- The company served about 4800 customers in 38 countries.
+- The company served about 4700 customers in 38 countries.
 
 
 <br>
@@ -61,7 +62,6 @@ Information about the online shop business sales transactions:
 #### Discussion 2: 
 - According to the monthly sales graph, over 90% of sales revenue was from Europe.
 - The sales revenue increased from December 2018 to August 2019 and grew rapidly after September. The revenue from November was more than double the amount of the lowest sales month (2019/2).
-- We removed the data of December 2019 because there were only ten days records in the month.
 
 
 <br>
@@ -71,8 +71,8 @@ Information about the online shop business sales transactions:
 !["sales"](https://github.com/ZiqiPolimeros/Python-Project-Online-Retail-Business/blob/main/pictures/5_customer.png?raw=true)
 
 #### Discussion 3:
-- Most of the top 20 buyers were from the United Kingdom. The biggest buyer, however,  was in the Netherlands and spent about 2.3 million pounds sterling.
-- There were 102 customers who only purchased once, and the one-time customers rate was 2.15%.
+- Most of the top 20 buyers were from the United Kingdom. The biggest buyer, however,  was in the Netherlands and spent over 2 million pounds sterling.
+- There were about 100 customers who only purchased once, and the one-time customers rate was 2.20%.
 
 
 <br>
@@ -87,7 +87,7 @@ Information about the online shop business sales transactions:
 
 #### Discussion 4:
 - The most popular product was a popcorn holder with total sales of almost 600 thousand pounds sterling.
-- The product return rate was 5.06%. The top 20 return products were from the United Kingdom.
+- The product return rate was 3.48%. The top 20 return products were mostly from the United Kingdom.
 
 
 <br>
@@ -105,8 +105,8 @@ They both have a moderate relationship with each other.[3]
 
 <h2><span style="color:blue">Suggestions </span></h2>
 
-- The one-time purchase customer rate was 2.15% which means that the repeat customer rate was 97.85%. A repeat customer rate that is viewed as successful is between 20% to 40%[4]. We suggest that the company can invest more in marketing to expand the customer base.
-- The product return rate of the year was 5.06%,  which is considered a low return rate as compared to the average return rate 10.6%[5]. However, the top return product refunds were over one million pounds sterling, and the second largest refund was over 0.75 million pounds sterling. Usually, a top return product was purchased by a lot of different customers. However, the top return product, Paper Craft Little Birdie, was purchased only once in 13 months. We can check the product’s quality, webpage demonstration and sale process to find out what needs to be improved. 
+- The one-time purchase customer rate was 2.2% which means that the repeat customer rate was 97.8%. A repeat customer rate that is viewed as successful is between 20% to 40%[4]. We suggest that the company can invest more in marketing to expand the customer base.
+- The product return rate of the year was 3.48%,  which is considered a low return rate as compared to the average return rate 10.6%[5]. However, the largest refund was over 0.8 million pounds sterling that was made up of almost 67% total return.  We can check the product’s quality, webpage demonstration and sale process to find out what needs to be improved. 
 - Based on the heatmap graph, we can tell that most of the popular products were not related to each other. We suggest that the company offer some sales promotions or recommendations for product pairings (Customers who bought this also bought that) to increase the quantities of product sales. 
 
 
