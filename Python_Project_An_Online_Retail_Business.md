@@ -37,7 +37,7 @@ Information about the online shop business sales transactions:
 - Business model: B2C retailer
 - Location: London
 - Year established: 2007
-- Time of the dataset: 12.2018 - 12.2019
+- Date of the dataset: 12.2018 - 12.2019
 - Size of the dataset: 500 thousand rows and 8 columns
 
 
