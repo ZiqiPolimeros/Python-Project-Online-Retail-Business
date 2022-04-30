@@ -1,1 +1,1 @@
-# Python-Project-Online-Retail-Business
+# Python-Project-Online-Wholesale-Business
