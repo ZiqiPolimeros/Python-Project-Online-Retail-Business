@@ -2,7 +2,7 @@
 
 <br>
 
-<h1><span style="color:blue">Python Project: An Online Retail Business</span></h1>
+<h1><span style="color:blue">Python Project: An Online Wholesale Business</span></h1>
 
 <h5> 
 Ziqi Polimeros<br>
@@ -32,9 +32,9 @@ E-commerce has kept growing and became a new channel to support businesses devel
 
 <h2><span style="color:blue">Data Source</span></h2> 
 
-This is an international e-commerce online store. The owner also has small businesses that buy in bulk and sell to other customers through retail outlet channels.
+This is an international e-commerce online store. The owner also has businesses that buy in bulk and sell to other customers through retail outlet channels.
 Information about the online shop business sales transactions:
-- Business model: B2C retailer
+- Business model: B2B & B2C
 - Location: London
 - Year established: 2007
 - Date of the dataset: 12.2018 - 12.2019
