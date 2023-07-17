@@ -2,7 +2,7 @@
 
 <br>
 
-<h1><span style="color:blue">Python Project: An Online Wholesale Business</span></h1>
+<h1><span style="color:blue">Python Project: An Online Retail Business</span></h1>
 
 <h5> 
 Ziqi Polimeros<br>
