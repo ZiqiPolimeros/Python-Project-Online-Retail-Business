@@ -30,6 +30,7 @@ E-commerce has kept growing and became a new channel to support businesses devel
 
 ![ProductVs.Customers](https://github.com/ZiqiPolimeros/Python-Project-Online-Retail-Business/blob/8193b0933a16e46a0a6ef880411e4c72eb9a12e8/pictures/Product_types_Distinct_Customers.png?raw=true)
 
+
 [2]
 
 <h2><span style="color:blue">Data Source</span></h2> 
