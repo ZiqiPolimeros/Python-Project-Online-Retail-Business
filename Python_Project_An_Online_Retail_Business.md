@@ -16,7 +16,7 @@ Mentor: Stella Kim,  Ariella Brown, <br>
 </h5>
 <br>
 
-!['ecommerce'](https://github.com/ZiqiPolimeros/Python-Project-Online-Retail-Business/blob/main/pictures/ecommerce.jpg?raw=true)
+!['ecommerce'](https://github.com/ZiqiPolimeros/Python-Project-Online-Retail-Business/blob/main/pictures/Revenue vs. Return.png?raw=true)
 
 
 
