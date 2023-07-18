@@ -26,9 +26,9 @@ Mentor: Stella Kim,  Ariella Brown, <br>
 E-commerce has kept growing and became a new channel to support businesses development. It has helped large retailers expand their customer base by selling online and given small businesses a chance to sell directly to customers on their own sites or through a platform like Amazon’s.  As a result, jobs created for e-commerce have grown 334% since 2002[1]. E-commerce has become the preferred way for many more people to shop. Particularly after COVID,  when many stores were closed or people wished to avoid going out among other shoppers,  the convenience of delivery to the home became necessary. 
 
 
-![RevenueVS.Returen](https://github.com/ZiqiPolimeros/Python-Project-Online-Retail-Business/blob/8193b0933a16e46a0a6ef880411e4c72eb9a12e8/pictures/Revenue_Return.png?raw=true)
+![RevenueVS.Returen](https://github.com/ZiqiPolimeros/Python-Project-Online-Retail-Business/blob/8193b0933a16e46a0a6ef880411e4c72eb9a12e8/pictures/growth.jpg?raw=true)
 
-![ProductVs.Customers](https://github.com/ZiqiPolimeros/Python-Project-Online-Retail-Business/blob/8193b0933a16e46a0a6ef880411e4c72eb9a12e8/pictures/Product_types_Distinct_Customers.png?raw=true)
+
 
 
 [2]
